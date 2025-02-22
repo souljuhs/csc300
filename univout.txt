@@ -1,0 +1,66 @@
+Cal State Dominguez Hills's Community Of Advisors and Their Students
+Students advised by Mohsen Beheshti of the Computer Science Department
+Adhikari,Bishal with ID number 1000 is in the Freshman class
+Briseno,Cesar with ID number 1005 is in the Sophomore class
+Franco Flores,Roberto with ID number 1010 is in the Freshman class
+Lopez,Francisco Javier with ID number 1015 is in the Sophomore class
+Perez,Cindy Ordorica with ID number 1020 is in the Freshman class
+Torres,Eduardo with ID number 1025 is in the Freshman class
+Students advised by Joseph Conrad of the English Department
+Adhikari Subedi,Jamuna with ID number 1001 is in the Sophomore class
+Cherenet,Natnael with ID number 1006 is in the Junior class
+Galindo,Yesenia Del Carmen with ID number 1011 is in the Junior class
+Lucas,Brandon Gregory with ID number 1016 is in the Junior class
+Quiloan,Richard Ryan Samera with ID number 1021 is in the Junior class
+Xu,Bryan C with ID number 1026 is in the Junior class
+Students advised by Isaac Newton of the Physical Sciences Department
+Arcos,Anthony with ID number 1002 is in the Junior class
+Chisholm,Melissa Arevalo-Garcia with ID number 1007 is in the Senior class
+Garcia Morales,Benjamin Fernando with ID number 1012 is in the Sophomore class
+Manriquez,Christophoer with ID number 1017 is in the Senior class
+Reynoso,Lissette Azucena with ID number 1022 is in the Sophomore class
+Students advised by Alexander Hamilton of the Economcs Department
+Arellano,Jasmine Lee with ID number 1003 is in the Senior class
+Comon,Samuel with ID number 1008 is in the Freshman class
+Gregg,Christophoer Warren with ID number 1013 is in the Freshman class
+Morales,Edgar with ID number 1018 is in the Junior class
+Rivera Mata,Ramon with ID number 1023 is in the Freshman class
+Students advised by Dougla MacArthur of the Military Hisory Department
+Bahena,Edgar with ID number 1004 is in the Senior class
+Fernandez,Alexandro R with ID number 1009 is in the Senior class
+Lieber,Derek James with ID number 1014 is in the Sophomore class
+Pandey,Surendra with ID number 1019 is in the Sophomore class
+Sosa,Erik Armando with ID number 1024 is in the Senior class
+
+Cal State Dominguez Hills's List Of Students By Year
+FRESHMAN STUDENTS
+Adhikari,Bishal with ID number 1000 is in the Freshman class
+Comon,Samuel with ID number 1008 is in the Freshman class
+Franco Flores,Roberto with ID number 1010 is in the Freshman class
+Gregg,Christophoer Warren with ID number 1013 is in the Freshman class
+Perez,Cindy Ordorica with ID number 1020 is in the Freshman class
+Rivera Mata,Ramon with ID number 1023 is in the Freshman class
+Torres,Eduardo with ID number 1025 is in the Freshman class
+SOPHOMORE STUDENTS
+Adhikari Subedi,Jamuna with ID number 1001 is in the Sophomore class
+Briseno,Cesar with ID number 1005 is in the Sophomore class
+Garcia Morales,Benjamin Fernando with ID number 1012 is in the Sophomore class
+Lieber,Derek James with ID number 1014 is in the Sophomore class
+Lopez,Francisco Javier with ID number 1015 is in the Sophomore class
+Pandey,Surendra with ID number 1019 is in the Sophomore class
+Reynoso,Lissette Azucena with ID number 1022 is in the Sophomore class
+JUNIOR STUDENTS
+Arcos,Anthony with ID number 1002 is in the Junior class
+Cherenet,Natnael with ID number 1006 is in the Junior class
+Galindo,Yesenia Del Carmen with ID number 1011 is in the Junior class
+Lucas,Brandon Gregory with ID number 1016 is in the Junior class
+Morales,Edgar with ID number 1018 is in the Junior class
+Quiloan,Richard Ryan Samera with ID number 1021 is in the Junior class
+Xu,Bryan C with ID number 1026 is in the Junior class
+SENIOR STUDENTS
+Arellano,Jasmine Lee with ID number 1003 is in the Senior class
+Bahena,Edgar with ID number 1004 is in the Senior class
+Chisholm,Melissa Arevalo-Garcia with ID number 1007 is in the Senior class
+Fernandez,Alexandro R with ID number 1009 is in the Senior class
+Manriquez,Christophoer with ID number 1017 is in the Senior class
+Sosa,Erik Armando with ID number 1024 is in the Senior class
