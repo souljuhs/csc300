@@ -17,6 +17,11 @@ public class SimulatePark
             {
                 String line = scanner.nextLine().trim();
 
+                if (line.isEmpty() || line.contains("RIDERS") || line.contains("WAIT AVG")) 
+                {
+                    continue;
+                }
+
                 if (line.startsWith("The Total Gate for Fast Riders"))
                 {
                     double fastGate = Double.parseDouble(line.split("is ")[1].replace(",", ""));
@@ -30,14 +35,31 @@ public class SimulatePark
                 else if (line.startsWith("RIDE"))
                 {
                     String[] parts = line.split("\\s+");
-                    String rideName = parts[0];
-                    int fastRiders = Integer.parseInt(parts[1]);
-                    double fastWait = Double.parseDouble(parts[2]);
-                    int normalRiders = Integer.parseInt(parts[3]);
-                    double normalWait = Double.parseDouble(parts[4]);
 
-                    Attraction attraction = new Attraction(rideName, fastRiders, fastWait, normalRiders, normalWait);
-                    park.addAttraction(attraction);
+                    if (parts.length < 5) 
+                    {
+                        System.out.printf("Skipping malformed line: %s\n", line);
+                        continue;
+                    }
+
+                    try
+                    {
+                        String rideName = parts[0];
+                        int fastRiders = Integer.parseInt(parts[1]);
+                        double fastWait = Double.parseDouble(parts[2]);
+                        int normalRiders = Integer.parseInt(parts[3]);
+                        double normalWait = Double.parseDouble(parts[4]);
+
+                        int totalRiders = fastRiders + normalRiders;
+                        double totalWaitAvg = (fastRiders * fastWait + normalRiders * normalWait) / totalRiders;
+
+                        Attraction attraction = new Attraction(rideName, fastRiders, fastWait, normalRiders, normalWait);
+                        park.addAttraction(attraction);
+                    }
+                    catch (NumberFormatException e)
+                    {
+                        System.out.printf("Error parsing ride data: %s\n", line);
+                    }
                 }
             }
 
@@ -48,7 +70,6 @@ public class SimulatePark
             System.out.printf("Error reading amusestats.txt: %s\n", e.getMessage());
         }
 
-        // display the amusement park statistics
         park.displayParkStats();
     }
 }

@@ -47,11 +47,14 @@ public class PieceMealVacation extends Vacation
     @Override
     public String toString()
     {
-        StringBuilder result = new StringBuilder(String.format("%s\n", super.toString()));
+        StringBuilder result = new StringBuilder();
+        result.append(super.toString()).append("\n");
+
         for (int i = 0; i < items.length; i++)
         {
             result.append(String.format("%s: $%.2f\n", items[i], costs[i]));
         }
+
         return result.toString();
     }
 }
