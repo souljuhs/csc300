@@ -1,16 +1,17 @@
+// Problem 1: Finding Minimum and Maximum in an Array
 import java.util.Random;
 
 public class ArrayMinMaxFinder
 {
     public static int[] findMinMax(int[] numbers, int left, int right)
     {
-        // base case: only one element
+        // Base case: only one element
         if (left == right)
         {
             return new int[]{numbers[left], numbers[left]};
         }
 
-        // base case: two elements
+        // Base case: two elements
         if (right - left == 1)
         {
             if (numbers[left] < numbers[right])

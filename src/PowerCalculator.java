@@ -1,13 +1,14 @@
+// Problem 4: Recursive String Reversal
 public class PowerCalculator
 {
-    // basic power function O(n)
+    // Basic power function O(n)
     public static int basicPower(int x, int n)
     {
         if (n == 0) { return 1; }
         return x * basicPower(x, n - 1);
     }
 
-    // optimized power function O(log n) using divide and conquer
+    // Optimized power function O(log n) using divide and conquer
     public static int optimizedPower(int x, int n)
     {
         if (n == 0) { return 1; }
