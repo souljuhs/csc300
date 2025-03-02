@@ -1,4 +1,4 @@
-// Problem 3: Recursive Power Function
+// Problem 4: Recursive String Reversal
 public class StringReverser
 {
     public static String reverseString(String str)

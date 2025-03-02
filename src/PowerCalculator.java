@@ -1,4 +1,4 @@
-// Problem 4: Recursive String Reversal
+// Problem 3: Recursive Power Function
 public class PowerCalculator
 {
     // Basic power function O(n)
