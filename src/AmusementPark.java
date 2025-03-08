@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Random;
 
 public class AmusementPark
 {
@@ -26,6 +27,17 @@ public class AmusementPark
     public void setTotalNormalGate(double totalNormalGate)
     {
         this.totalNormalGate = totalNormalGate;
+    }
+
+    public void createAttractions(int numAttractions)
+    {
+        Random randy = new Random(9);
+
+        for (int i = 0; i < numAttractions; i++)
+        {
+            int ratePerMinute = randy.nextInt(25, 45);
+            attractions.add(new Attraction(ratePerMinute));
+        }
     }
 
     public void displayParkStats()
