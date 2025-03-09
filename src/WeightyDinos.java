@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 import java.util.Random;
 
 class WeightyDinos
@@ -12,17 +11,18 @@ class WeightyDinos
 
         for (int i = 0; i < 12; i++)
         {
-            int weight = 50000 + rand.nextInt(150001);
+            int weight = 50000 + rand.nextInt(150001);  
             dinoList.add(new Dinosaur(weight));
         }
 
         Collections.sort(dinoList);
 
-        System.out.println("Name\tWeight");
-        Iterator<Dinosaur> it = dinoList.iterator();
-        while (it.hasNext())
+        System.out.printf("%-10s %-10s\n", "Name", "Weight");
+        System.out.println("--------------------");
+
+        for (Dinosaur dino : dinoList)
         {
-            System.out.println(it.next());
+            System.out.printf("%-10s %-10d\n", dino.getDinoName(), dino.getDinoWeight());
         }
     }
 }

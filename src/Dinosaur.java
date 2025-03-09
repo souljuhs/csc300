@@ -17,6 +17,11 @@ class Dinosaur implements Comparable<Dinosaur>
         this.dinoName = "DINO" + dinoCounter.getAndIncrement();
     }
 
+    public String getDinoName()
+    {
+        return dinoName;
+    }
+
     public int getDinoWeight()
     {
         return dinoWeight;
