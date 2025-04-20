@@ -53,6 +53,7 @@ public class InfixToPostfixConverter
 				charStack.pop();
 			}
 		}
+		
 		return postfix.toString();
 	}
 
