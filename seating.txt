@@ -1,0 +1,78 @@
+The boarding order for Flight AAA 99 with 102 seats and 51 seats sold is:
+PID_First 4	PID_First 12	PID_First 14	
+PID_First 16	PID_First 20	PID_First 25	
+PID_First 27	PID_First 28	PID_First 34	
+PID_First 41	PID_First 48	PID_First 49	
+PID_First 50	PID_Coach 1	PID_Coach 2	
+PID_Coach 3	PID_Coach 5	PID_Coach 6	
+PID_Coach 7	PID_Coach 8	PID_Coach 9	
+PID_Coach 10	PID_Coach 11	PID_Coach 13	
+PID_Coach 15	PID_Coach 17	PID_Coach 18	
+PID_Coach 19	PID_Coach 21	PID_Coach 22	
+PID_Coach 23	PID_Coach 24	PID_Coach 26	
+PID_Coach 29	PID_Coach 30	PID_Coach 31	
+PID_Coach 32	PID_Coach 33	PID_Coach 35	
+PID_Coach 36	PID_Coach 37	PID_Coach 38	
+PID_Coach 39	PID_Coach 40	PID_Coach 42	
+PID_Coach 43	PID_Coach 44	PID_Coach 45	
+PID_Coach 46	PID_Coach 47	PID_Coach 51	
+
+
+
+
+The boarding order for Flight AAA 128 with 100 seats and 60 seats sold is:
+PID_First 72	PID_First 80	PID_First 82	
+PID_First 85	PID_First 87	PID_First 88	
+PID_First 90	PID_First 91	PID_First 96	
+PID_First 98	PID_First 103	PID_First 105	
+PID_First 110	PID_Coach 52	PID_Coach 53	
+PID_Coach 54	PID_Coach 55	PID_Coach 56	
+PID_Coach 57	PID_Coach 58	PID_Coach 59	
+PID_Coach 60	PID_Coach 61	PID_Coach 62	
+PID_Coach 63	PID_Coach 64	PID_Coach 65	
+PID_Coach 66	PID_Coach 67	PID_Coach 68	
+PID_Coach 69	PID_Coach 70	PID_Coach 71	
+PID_Coach 73	PID_Coach 74	PID_Coach 75	
+PID_Coach 76	PID_Coach 77	PID_Coach 78	
+PID_Coach 79	PID_Coach 81	PID_Coach 83	
+PID_Coach 84	PID_Coach 86	PID_Coach 89	
+PID_Coach 92	PID_Coach 93	PID_Coach 94	
+PID_Coach 95	PID_Coach 97	PID_Coach 99	
+PID_Coach 100	PID_Coach 101	PID_Coach 102	
+PID_Coach 104	PID_Coach 106	PID_Coach 107	
+PID_Coach 108	PID_Coach 109	PID_Coach 111	
+
+
+
+
+The boarding order for Flight AAA 2020 with 85 seats and 80 seats sold is:
+PID_First 117	PID_First 128	PID_First 131	
+PID_First 137	PID_First 138	PID_First 142	
+PID_First 149	PID_First 156	PID_First 163	
+PID_First 164	PID_First 176	PID_First 181	
+PID_Coach 112	PID_Coach 113	PID_Coach 114	
+PID_Coach 115	PID_Coach 116	PID_Coach 118	
+PID_Coach 119	PID_Coach 120	PID_Coach 121	
+PID_Coach 122	PID_Coach 123	PID_Coach 124	
+PID_Coach 125	PID_Coach 126	PID_Coach 127	
+PID_Coach 129	PID_Coach 130	PID_Coach 132	
+PID_Coach 133	PID_Coach 134	PID_Coach 135	
+PID_Coach 136	PID_Coach 139	PID_Coach 140	
+PID_Coach 141	PID_Coach 143	PID_Coach 144	
+PID_Coach 145	PID_Coach 146	PID_Coach 147	
+PID_Coach 148	PID_Coach 150	PID_Coach 151	
+PID_Coach 152	PID_Coach 153	PID_Coach 154	
+PID_Coach 155	PID_Coach 157	PID_Coach 158	
+PID_Coach 159	PID_Coach 160	PID_Coach 161	
+PID_Coach 162	PID_Coach 165	PID_Coach 166	
+PID_Coach 167	PID_Coach 168	PID_Coach 169	
+PID_Coach 170	PID_Coach 171	PID_Coach 172	
+PID_Coach 173	PID_Coach 174	PID_Coach 175	
+PID_Coach 177	PID_Coach 178	PID_Coach 179	
+PID_Coach 180	PID_Coach 182	PID_Coach 183	
+PID_Coach 184	PID_Coach 185	PID_Coach 186	
+PID_Coach 187	PID_Coach 188	PID_Coach 189	
+PID_Coach 190	PID_Coach 191	
+
+
+
